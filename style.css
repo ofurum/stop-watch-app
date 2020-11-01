@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.timer{
+    font-size: 50px;
+}
+.btn-start{
+    padding: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    border-style: solid;
+    background:lightgreen ;
+    color: white;
+    
+}
+.btn-reset{
+    padding: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    border-style: solid;
+    background: red;
+}
+
+.btn-pause{
+    padding: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    border-style: solid;
+    background: orange;
+}
